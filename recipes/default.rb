@@ -1,4 +1,4 @@
 package 'mongodb' do
-	:install
+	action :install
 end
 
