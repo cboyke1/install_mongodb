@@ -1,4 +1,3 @@
 # install_mongodb
 
-TODO: Enter the cookbook description here.
-
+Basic Chef cookbook for installing mongodb
